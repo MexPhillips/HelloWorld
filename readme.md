@@ -6,7 +6,7 @@ I created this project to practice setting up a development environment, learnin
 
 The demonstration video will be added here once it is published.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_gj3WYO3o9A)
 
 # Development Environment
 
