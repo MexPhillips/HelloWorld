@@ -1,12 +1,10 @@
 # Overview
 
-This software is a small Python program that prints "Hello World" to the terminal. It demonstrates the basic development workflow of writing and running code, using source control, and publishing a software project to GitHub.
+This software is a small Python program that asks for the user's name and prints a personalized greeting to the terminal. It demonstrates the basic development workflow of writing and running code, using source control, and publishing a software project to GitHub.
 
 I created this project to practice setting up a development environment, learning how Python programs run, and preparing a clear software portfolio entry. It also serves as a starting point for future modules that will use different languages and technologies.
 
-The demonstration video will be added here once it is published.
-
-[Software Demo Video](https://youtu.be/_gj3WYO3o9A)
+[Software Demo Video](https://youtu.be/pH8nNyvpP0o)
 
 # Development Environment
 
